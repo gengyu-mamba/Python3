@@ -1,39 +1,3 @@
-# print()函数
-
-print('hello world')
-
-print("hello world")
-
-print("Let's play")
-
-print('''hello world!
-hello python!''') #换行打印
-
-# 变量和赋值
-
-# 变量命名规范：
-# 1、只能是一个词
-# 2、只能包含字母、数字和下划线
-# 3、不能以数字开头
-# 4、尽量描述包含的数据内容
-
-# 数据类型
-# 字符串 整数 浮点数
-
-#算术运算符
-print(1+2)#加法
-
-print(1-2)#减法
-
-print(1*2)#乘法
-
-print(1/2)#除法
-
-print(2**3)#幂
-
-print(10%3)#取模
-
-print(10//3)#取整数
 
 # 数据拼接
 # 方法：用"+"号将数据进行拼接
