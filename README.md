@@ -1,3 +1,3 @@
 # python3
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg)
+![Alt](https://github.com/gengyu-mamba/learn_python3/tree/master/resource/Python的应用方向.png)
